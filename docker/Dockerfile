@@ -1,6 +1,6 @@
-# Base Image
 FROM ubuntu:latest
 
+# Prevent timezone questions during install of packages
 ENV TZ=Europe/Amsterdam
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 

@@ -5,4 +5,6 @@ apt-get update
 # Install pre-requisite packages.
 apt-get install -y \
     git \
-    vim
+    vim \
+    curl \
+    tmux

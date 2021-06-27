@@ -60,6 +60,7 @@
         "terminal.integrated.rightClickBehavior": "default",
         "terminal.integrated.showExitAlert": false,
         "files.autoSave": "off",
+        "files.eol": "\n",
         "editor.formatOnSave": false,
         "editor.formatOnPaste": false,
         "gitlens.mode.active": "zen"
@@ -69,10 +70,14 @@
             // Git support
             "eamodio.gitlens",
             "donjayamanne.githistory",
-            // Markdown
-            "yzhang.markdown-all-in-one",
+            // Powershell
+            "ms-vscode.powershell",
             // Misc
-            "esbenp.prettier-vscode"
+            "esbenp.prettier-vscode",
+            "zainchen.json",
+            "dotjoshjohnson.xml",
+            "yzhang.markdown-all-in-one",
+            "pascalreitermann93.vscode-yaml-sort"
         ],
     }
 }
