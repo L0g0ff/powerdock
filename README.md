@@ -8,7 +8,7 @@ Install, explore, test, validate and break stuff without worrying about damaging
 
 # prerequisites
 
-* [Docker](https://docs.docker.com/get-docker/)
+* [Docker Desktop](https://docs.docker.com/get-docker/)
 * [Docker compose](https://docs.docker.com/compose/install/)
 * [VScode](https://code.visualstudio.com/download)
 * [VScode remote containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
