@@ -8,7 +8,7 @@ Install, explore, test, validate and break stuff without worrying about damaging
 
 # prerequisites
 
-* [Docker Desktop](https://docs.docker.com/get-docker/)
+* [Docker](https://docs.docker.com/get-docker/)
 * [Docker compose](https://docs.docker.com/compose/install/)
 * [VScode](https://code.visualstudio.com/download)
 * [VScode remote containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
@@ -16,7 +16,7 @@ Install, explore, test, validate and break stuff without worrying about damaging
 # Installation
 
 ```
-git clone https://gitlab.com/micakkermans/powerdock.git
+git clone https://github.com/michael-akkermans/powerdock.git
 cd powerdock
 docker-compose up -d
 ```
